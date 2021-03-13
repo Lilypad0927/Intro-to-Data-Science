@@ -1,0 +1,1441 @@
+Check Treatment A1,Inform Authority Fill Form	100
+Check Treatment A1,Treatment A1-1	100
+Check Treatment A1,Treatment A1-10	99
+Check Treatment A1,Treatment A1-11	200
+Check Treatment A1,Treatment A1-13	300
+Check Treatment A1,Treatment A1-14	200
+Check Treatment A1,Treatment A1-15	100
+Check Treatment A1,Treatment A1-16	400
+Check Treatment A1,Treatment A1-17	100
+Check Treatment A1,Treatment A1-18	100
+Check Treatment A1,Treatment A1-19	300
+Check Treatment A1,Treatment A1-22	400
+Check Treatment A1,Treatment A1-24	100
+Check Treatment A1,Treatment A1-5	300
+Check Treatment A1,Treatment A1-6	100
+Check Treatment A1,Treatment A1-7	100
+Check Treatment A1,Treatment A1-8	300
+Check Treatment A1,Treatment A1-9	500
+Check Treatment A1,Treatment A2	5100
+Check Treatment A1,Treatment A3	3400
+Check Treatment A1-10,Treatment A1-11	1100
+Check Treatment A1-10,Treatment A2-11	700
+Check Treatment A1-100,Discharge	100
+Check Treatment A1-100,Treatment A1-101	300
+Check Treatment A1-100,Treatment A3-101	100
+Check Treatment A1-101,Discharge	200
+Check Treatment A1-101,Treatment A1-102	200
+Check Treatment A1-101,Treatment A2-102	100
+Check Treatment A1-101,Treatment A3-102	200
+Check Treatment A1-102,Discharge	100
+Check Treatment A1-102,Treatment A2-103	300
+Check Treatment A1-102,Treatment A3-103	100
+Check Treatment A1-103,Discharge	100
+Check Treatment A1-103,Treatment A2-104	400
+Check Treatment A1-104,Discharge	100
+Check Treatment A1-105,Treatment A1-106	100
+Check Treatment A1-105,Treatment A2-106	100
+Check Treatment A1-106,Treatment A1-107	200
+Check Treatment A1-106,Treatment A2-107	100
+Check Treatment A1-106,Treatment A3-107	200
+Check Treatment A1-107,Discharge	300
+Check Treatment A1-107,Treatment A1-108	200
+Check Treatment A1-107,Treatment A3-108	100
+Check Treatment A1-108,Treatment A1-109	100
+Check Treatment A1-108,Treatment A2-109	100
+Check Treatment A1-109,Discharge	200
+Check Treatment A1-109,Treatment A3-110	100
+Check Treatment A1-11,Treatment A1-12	800
+Check Treatment A1-11,Treatment A2-12	1100
+Check Treatment A1-110,Discharge	100
+Check Treatment A1-110,Treatment A1-111	100
+Check Treatment A1-110,Treatment A2-111	200
+Check Treatment A1-111,Treatment A2-112	100
+Check Treatment A1-112,Treatment A1-113	100
+Check Treatment A1-112,Treatment A2-113	100
+Check Treatment A1-114,Discharge	100
+Check Treatment A1-114,Treatment A1-115	100
+Check Treatment A1-114,Treatment A3-115	100
+Check Treatment A1-115,Discharge	100
+Check Treatment A1-115,Treatment A1-116	100
+Check Treatment A1-116,Discharge	100
+Check Treatment A1-116,Treatment A3-117	100
+Check Treatment A1-117,Discharge	100
+Check Treatment A1-118,Treatment A2-119	100
+Check Treatment A1-12,Treatment A1-13	1500
+Check Treatment A1-12,Treatment A2-13	1000
+Check Treatment A1-12,Treatment A3-13	200
+Check Treatment A1-120,Treatment A2-121	100
+Check Treatment A1-122,Discharge	100
+Check Treatment A1-13,Treatment A1-14	1499
+Check Treatment A1-13,Treatment A2-14	700
+Check Treatment A1-14,Treatment A1-15	2299
+Check Treatment A1-14,Treatment A2-15	400
+Check Treatment A1-14,Treatment A3-15	300
+Check Treatment A1-15,Treatment A1-16	2700
+Check Treatment A1-15,Treatment A2-16	600
+Check Treatment A1-15,Treatment A3-16	100
+Check Treatment A1-16,Treatment A1-17	2300
+Check Treatment A1-16,Treatment A2-17	900
+Check Treatment A1-16,Treatment A3-17	900
+Check Treatment A1-17,Treatment A1-18	2100
+Check Treatment A1-17,Treatment A2-18	1200
+Check Treatment A1-17,Treatment A3-18	700
+Check Treatment A1-18,Treatment A1-19	1900
+Check Treatment A1-18,Treatment A2-19	900
+Check Treatment A1-18,Treatment A3-19	600
+Check Treatment A1-19,Treatment A1-20	1700
+Check Treatment A1-19,Treatment A2-20	700
+Check Treatment A1-19,Treatment A3-20	1000
+Check Treatment A1-2,Inform Authority Fill Form	100
+Check Treatment A1-2,Treatment A1-3	100
+Check Treatment A1-20,Treatment A1-21	1799
+Check Treatment A1-20,Treatment A2-21	700
+Check Treatment A1-20,Treatment A3-21	800
+Check Treatment A1-21,Treatment A1-22	1700
+Check Treatment A1-21,Treatment A2-22	700
+Check Treatment A1-21,Treatment A3-22	600
+Check Treatment A1-22,Treatment A1-23	2800
+Check Treatment A1-22,Treatment A2-23	600
+Check Treatment A1-22,Treatment A3-23	300
+Check Treatment A1-23,Treatment A1-24	2500
+Check Treatment A1-23,Treatment A2-24	500
+Check Treatment A1-23,Treatment A3-24	600
+Check Treatment A1-24,Treatment A1-25	2700
+Check Treatment A1-24,Treatment A2-25	600
+Check Treatment A1-24,Treatment A3-25	800
+Check Treatment A1-25,Treatment A1-26	3200
+Check Treatment A1-25,Treatment A2-26	700
+Check Treatment A1-25,Treatment A3-26	600
+Check Treatment A1-26,Treatment A1-27	2400
+Check Treatment A1-26,Treatment A2-27	1300
+Check Treatment A1-26,Treatment A3-27	600
+Check Treatment A1-27,Treatment A1-28	1800
+Check Treatment A1-27,Treatment A2-28	1700
+Check Treatment A1-27,Treatment A3-28	600
+Check Treatment A1-28,Treatment A1-29	1300
+Check Treatment A1-28,Treatment A2-29	1600
+Check Treatment A1-28,Treatment A3-29	500
+Check Treatment A1-29,Treatment A1-30	2000
+Check Treatment A1-29,Treatment A2-30	800
+Check Treatment A1-29,Treatment A3-30	400
+Check Treatment A1-30,Treatment A1-31	2200
+Check Treatment A1-30,Treatment A2-31	400
+Check Treatment A1-30,Treatment A3-31	600
+Check Treatment A1-31,Treatment A1-32	3200
+Check Treatment A1-31,Treatment A2-32	1000
+Check Treatment A1-31,Treatment A3-32	300
+Check Treatment A1-32,Treatment A1-33	2900
+Check Treatment A1-32,Treatment A2-33	500
+Check Treatment A1-32,Treatment A3-33	1100
+Check Treatment A1-33,Treatment A1-34	2299
+Check Treatment A1-33,Treatment A2-34	900
+Check Treatment A1-33,Treatment A3-34	1300
+Check Treatment A1-34,Treatment A1-35	2100
+Check Treatment A1-34,Treatment A2-35	1000
+Check Treatment A1-34,Treatment A3-35	800
+Check Treatment A1-35,Treatment A1-36	2000
+Check Treatment A1-35,Treatment A2-36	600
+Check Treatment A1-35,Treatment A3-36	1100
+Check Treatment A1-36,Treatment A1-37	1400
+Check Treatment A1-36,Treatment A2-37	800
+Check Treatment A1-36,Treatment A3-37	1100
+Check Treatment A1-37,Treatment A1-38	1899
+Check Treatment A1-37,Treatment A2-38	1200
+Check Treatment A1-37,Treatment A3-38	500
+Check Treatment A1-38,Treatment A1-39	2598
+Check Treatment A1-38,Treatment A2-39	600
+Check Treatment A1-38,Treatment A3-39	200
+Check Treatment A1-39,Treatment A1-40	2000
+Check Treatment A1-39,Treatment A2-40	700
+Check Treatment A1-39,Treatment A3-40	900
+Check Treatment A1-4,Treatment A2-5	200
+Check Treatment A1-40,Treatment A1-41	2600
+Check Treatment A1-40,Treatment A2-41	700
+Check Treatment A1-40,Treatment A3-41	1000
+Check Treatment A1-41,Treatment A1-42	3099
+Check Treatment A1-41,Treatment A2-42	400
+Check Treatment A1-41,Treatment A3-42	700
+Check Treatment A1-42,Treatment A1-43	2300
+Check Treatment A1-42,Treatment A2-43	1200
+Check Treatment A1-42,Treatment A3-43	600
+Check Treatment A1-43,Treatment A1-44	2200
+Check Treatment A1-43,Treatment A2-44	1800
+Check Treatment A1-43,Treatment A3-44	600
+Check Treatment A1-44,Treatment A1-45	1200
+Check Treatment A1-44,Treatment A2-45	1800
+Check Treatment A1-44,Treatment A3-45	500
+Check Treatment A1-45,Treatment A1-46	1700
+Check Treatment A1-45,Treatment A2-46	1100
+Check Treatment A1-45,Treatment A3-46	600
+Check Treatment A1-46,Treatment A1-47	2100
+Check Treatment A1-46,Treatment A2-47	500
+Check Treatment A1-46,Treatment A3-47	600
+Check Treatment A1-47,Treatment A1-48	2900
+Check Treatment A1-47,Treatment A2-48	800
+Check Treatment A1-47,Treatment A3-48	400
+Check Treatment A1-48,Treatment A1-49	2800
+Check Treatment A1-48,Treatment A2-49	500
+Check Treatment A1-48,Treatment A3-49	1100
+Check Treatment A1-49,Treatment A1-50	2300
+Check Treatment A1-49,Treatment A2-50	1200
+Check Treatment A1-49,Treatment A3-50	1100
+Check Treatment A1-5,Treatment A1-6	200
+Check Treatment A1-50,Treatment A1-51	2200
+Check Treatment A1-50,Treatment A2-51	900
+Check Treatment A1-50,Treatment A3-51	900
+Check Treatment A1-51,Treatment A1-52	1800
+Check Treatment A1-51,Treatment A2-52	500
+Check Treatment A1-51,Treatment A3-52	1400
+Check Treatment A1-52,Treatment A1-53	1500
+Check Treatment A1-52,Treatment A2-53	1100
+Check Treatment A1-52,Treatment A3-53	900
+Check Treatment A1-53,Treatment A1-54	1900
+Check Treatment A1-53,Treatment A2-54	1300
+Check Treatment A1-53,Treatment A3-54	500
+Check Treatment A1-54,Treatment A1-55	2099
+Check Treatment A1-54,Treatment A2-55	1100
+Check Treatment A1-54,Treatment A3-55	400
+Check Treatment A1-55,Treatment A1-56	1799
+Check Treatment A1-55,Treatment A2-56	900
+Check Treatment A1-55,Treatment A3-56	900
+Check Treatment A1-56,Treatment A1-57	2100
+Check Treatment A1-56,Treatment A2-57	600
+Check Treatment A1-56,Treatment A3-57	1000
+Check Treatment A1-57,Treatment A1-58	2800
+Check Treatment A1-57,Treatment A2-58	400
+Check Treatment A1-57,Treatment A3-58	800
+Check Treatment A1-58,Treatment A1-59	2699
+Check Treatment A1-58,Treatment A2-59	1100
+Check Treatment A1-58,Treatment A3-59	500
+Check Treatment A1-59,Treatment A1-60	2800
+Check Treatment A1-59,Treatment A2-60	1300
+Check Treatment A1-59,Treatment A3-60	600
+Check Treatment A1-6,Inform Authority Fill Form	300
+Check Treatment A1-6,Treatment A1-7	900
+Check Treatment A1-60,Discharge	100
+Check Treatment A1-60,Treatment A1-61	1600
+Check Treatment A1-60,Treatment A2-61	1800
+Check Treatment A1-60,Treatment A3-61	500
+Check Treatment A1-61,Treatment A1-62	1500
+Check Treatment A1-61,Treatment A2-62	1800
+Check Treatment A1-61,Treatment A3-62	600
+Check Treatment A1-62,Discharge	100
+Check Treatment A1-62,Treatment A1-63	1500
+Check Treatment A1-62,Treatment A2-63	1300
+Check Treatment A1-62,Treatment A3-63	600
+Check Treatment A1-63,Treatment A1-64	2100
+Check Treatment A1-63,Treatment A2-64	1300
+Check Treatment A1-63,Treatment A3-64	400
+Check Treatment A1-64,Discharge	599
+Check Treatment A1-64,Treatment A1-65	1999
+Check Treatment A1-64,Treatment A2-65	500
+Check Treatment A1-64,Treatment A3-65	300
+Check Treatment A1-65,Discharge	600
+Check Treatment A1-65,Treatment A1-66	2000
+Check Treatment A1-65,Treatment A2-66	900
+Check Treatment A1-65,Treatment A3-66	700
+Check Treatment A1-66,Discharge	400
+Check Treatment A1-66,Treatment A1-67	2200
+Check Treatment A1-66,Treatment A2-67	1000
+Check Treatment A1-66,Treatment A3-67	500
+Check Treatment A1-67,Discharge	400
+Check Treatment A1-67,Treatment A1-68	1800
+Check Treatment A1-67,Treatment A2-68	700
+Check Treatment A1-67,Treatment A3-68	900
+Check Treatment A1-68,Discharge	400
+Check Treatment A1-68,Treatment A1-69	1300
+Check Treatment A1-68,Treatment A2-69	800
+Check Treatment A1-68,Treatment A3-69	600
+Check Treatment A1-69,Discharge	300
+Check Treatment A1-69,Treatment A1-70	1699
+Check Treatment A1-69,Treatment A2-70	1200
+Check Treatment A1-69,Treatment A3-70	200
+Check Treatment A1-7,Inform Authority Fill Form	100
+Check Treatment A1-7,Treatment A1-8	700
+Check Treatment A1-7,Treatment A2-8	200
+Check Treatment A1-70,Discharge	100
+Check Treatment A1-70,Treatment A1-71	1600
+Check Treatment A1-70,Treatment A2-71	900
+Check Treatment A1-70,Treatment A3-71	200
+Check Treatment A1-71,Discharge	200
+Check Treatment A1-71,Treatment A1-72	1300
+Check Treatment A1-71,Treatment A2-72	1000
+Check Treatment A1-71,Treatment A3-72	700
+Check Treatment A1-72,Discharge	500
+Check Treatment A1-72,Treatment A1-73	1300
+Check Treatment A1-72,Treatment A2-73	600
+Check Treatment A1-72,Treatment A3-73	500
+Check Treatment A1-73,Discharge	200
+Check Treatment A1-73,Treatment A1-74	1800
+Check Treatment A1-73,Treatment A2-74	500
+Check Treatment A1-73,Treatment A3-74	400
+Check Treatment A1-74,Discharge	100
+Check Treatment A1-74,Treatment A1-75	1500
+Check Treatment A1-74,Treatment A2-75	500
+Check Treatment A1-74,Treatment A3-75	500
+Check Treatment A1-75,Discharge	400
+Check Treatment A1-75,Treatment A1-76	1500
+Check Treatment A1-75,Treatment A2-76	1200
+Check Treatment A1-75,Treatment A3-76	500
+Check Treatment A1-76,Discharge	200
+Check Treatment A1-76,Treatment A1-77	1300
+Check Treatment A1-76,Treatment A2-77	800
+Check Treatment A1-76,Treatment A3-77	300
+Check Treatment A1-77,Discharge	600
+Check Treatment A1-77,Treatment A1-78	900
+Check Treatment A1-77,Treatment A2-78	900
+Check Treatment A1-78,Discharge	200
+Check Treatment A1-78,Treatment A1-79	600
+Check Treatment A1-78,Treatment A2-79	1100
+Check Treatment A1-78,Treatment A3-79	300
+Check Treatment A1-79,Discharge	100
+Check Treatment A1-79,Treatment A1-80	1300
+Check Treatment A1-79,Treatment A2-80	1100
+Check Treatment A1-79,Treatment A3-80	100
+Check Treatment A1-8,Treatment A1-9	900
+Check Treatment A1-8,Treatment A2-9	1100
+Check Treatment A1-80,Discharge	100
+Check Treatment A1-80,Treatment A1-81	900
+Check Treatment A1-80,Treatment A2-81	200
+Check Treatment A1-80,Treatment A3-81	400
+Check Treatment A1-81,Discharge	500
+Check Treatment A1-81,Treatment A1-82	1100
+Check Treatment A1-81,Treatment A2-82	400
+Check Treatment A1-81,Treatment A3-82	300
+Check Treatment A1-82,Discharge	100
+Check Treatment A1-82,Treatment A1-83	1599
+Check Treatment A1-82,Treatment A2-83	400
+Check Treatment A1-82,Treatment A3-83	400
+Check Treatment A1-83,Discharge	100
+Check Treatment A1-83,Treatment A1-84	1000
+Check Treatment A1-83,Treatment A2-84	600
+Check Treatment A1-83,Treatment A3-84	600
+Check Treatment A1-84,Discharge	300
+Check Treatment A1-84,Treatment A1-85	900
+Check Treatment A1-84,Treatment A2-85	800
+Check Treatment A1-84,Treatment A3-85	200
+Check Treatment A1-85,Discharge	100
+Check Treatment A1-85,Treatment A1-86	898
+Check Treatment A1-85,Treatment A2-86	400
+Check Treatment A1-85,Treatment A3-86	200
+Check Treatment A1-86,Discharge	100
+Check Treatment A1-86,Treatment A1-87	500
+Check Treatment A1-86,Treatment A2-87	800
+Check Treatment A1-86,Treatment A3-87	300
+Check Treatment A1-87,Discharge	100
+Check Treatment A1-87,Treatment A1-88	600
+Check Treatment A1-87,Treatment A2-88	800
+Check Treatment A1-87,Treatment A3-88	500
+Check Treatment A1-88,Discharge	300
+Check Treatment A1-88,Treatment A1-89	500
+Check Treatment A1-88,Treatment A2-89	300
+Check Treatment A1-88,Treatment A3-89	400
+Check Treatment A1-89,Discharge	400
+Check Treatment A1-89,Treatment A1-90	400
+Check Treatment A1-89,Treatment A2-90	100
+Check Treatment A1-89,Treatment A3-90	300
+Check Treatment A1-9,Treatment A1-10	1100
+Check Treatment A1-9,Treatment A2-10	800
+Check Treatment A1-90,Discharge	500
+Check Treatment A1-90,Treatment A1-91	500
+Check Treatment A1-90,Treatment A2-91	200
+Check Treatment A1-90,Treatment A3-91	300
+Check Treatment A1-91,Discharge	300
+Check Treatment A1-91,Treatment A1-92	899
+Check Treatment A1-91,Treatment A2-92	300
+Check Treatment A1-91,Treatment A3-92	300
+Check Treatment A1-92,Discharge	300
+Check Treatment A1-92,Treatment A1-93	499
+Check Treatment A1-92,Treatment A2-93	200
+Check Treatment A1-92,Treatment A3-93	200
+Check Treatment A1-93,Discharge	200
+Check Treatment A1-93,Treatment A1-94	400
+Check Treatment A1-93,Treatment A2-94	700
+Check Treatment A1-94,Discharge	200
+Check Treatment A1-94,Treatment A1-95	500
+Check Treatment A1-94,Treatment A2-95	300
+Check Treatment A1-94,Treatment A3-95	100
+Check Treatment A1-95,Discharge	400
+Check Treatment A1-95,Treatment A1-96	100
+Check Treatment A1-95,Treatment A2-96	500
+Check Treatment A1-95,Treatment A3-96	100
+Check Treatment A1-96,Discharge	200
+Check Treatment A1-96,Treatment A1-97	400
+Check Treatment A1-96,Treatment A2-97	200
+Check Treatment A1-97,Discharge	300
+Check Treatment A1-97,Treatment A1-98	300
+Check Treatment A1-97,Treatment A2-98	100
+Check Treatment A1-97,Treatment A3-98	100
+Check Treatment A1-98,Discharge	400
+Check Treatment A1-98,Treatment A1-99	300
+Check Treatment A1-98,Treatment A2-99	100
+Check Treatment A1-98,Treatment A3-99	200
+Check Treatment A1-99,Discharge	100
+Check Treatment A1-99,Treatment A1-100	500
+Check Treatment A1-99,Treatment A2-100	100
+Check Treatment A1-99,Treatment A3-100	200
+Check Treatment A2,Inform Authority Fill Form	200
+Check Treatment A2,Treatment A1	3600
+Check Treatment A2,Treatment A1-10	400
+Check Treatment A2,Treatment A1-11	100
+Check Treatment A2,Treatment A1-12	100
+Check Treatment A2,Treatment A1-13	200
+Check Treatment A2,Treatment A1-14	400
+Check Treatment A2,Treatment A1-15	300
+Check Treatment A2,Treatment A1-16	100
+Check Treatment A2,Treatment A1-17	100
+Check Treatment A2,Treatment A1-18	100
+Check Treatment A2,Treatment A1-19	100
+Check Treatment A2,Treatment A1-20	100
+Check Treatment A2,Treatment A1-23	100
+Check Treatment A2,Treatment A1-24	100
+Check Treatment A2,Treatment A1-4	100
+Check Treatment A2,Treatment A1-5	400
+Check Treatment A2,Treatment A1-6	300
+Check Treatment A2,Treatment A1-7	400
+Check Treatment A2,Treatment A1-8	300
+Check Treatment A2,Treatment A1-9	100
+Check Treatment A2,Treatment A3	4700
+Check Treatment A2-10,Treatment A1-11	1100
+Check Treatment A2-100,Treatment A1-101	100
+Check Treatment A2-101,Treatment A1-102	100
+Check Treatment A2-102,Treatment A1-103	100
+Check Treatment A2-103,Treatment A1-104	100
+Check Treatment A2-104,Treatment A1-105	400
+Check Treatment A2-105,Treatment A1-106	500
+Check Treatment A2-107,Treatment A1-108	100
+Check Treatment A2-108,Treatment A1-109	100
+Check Treatment A2-11,Treatment A1-12	800
+Check Treatment A2-110,Treatment A1-111	100
+Check Treatment A2-112,Treatment A1-113	200
+Check Treatment A2-113,Treatment A1-114	200
+Check Treatment A2-114,Treatment A1-115	100
+Check Treatment A2-12,Treatment A1-13	700
+Check Treatment A2-120,Treatment A1-121	100
+Check Treatment A2-122,Discharge	100
+Check Treatment A2-13,Treatment A1-14	1100
+Check Treatment A2-14,Treatment A1-15	1000
+Check Treatment A2-15,Treatment A1-16	700
+Check Treatment A2-16,Treatment A1-17	600
+Check Treatment A2-17,Treatment A1-18	600
+Check Treatment A2-18,Treatment A1-19	1000
+Check Treatment A2-18,Treatment A3-19	100
+Check Treatment A2-19,Treatment A1-20	1000
+Check Treatment A2-19,Treatment A3-20	300
+Check Treatment A2-20,Treatment A1-21	1800
+Check Treatment A2-21,Treatment A1-22	1200
+Check Treatment A2-22,Treatment A1-23	1000
+Check Treatment A2-22,Treatment A3-23	300
+Check Treatment A2-23,Treatment A1-24	1700
+Check Treatment A2-24,Treatment A1-25	1200
+Check Treatment A2-25,Treatment A1-26	699
+Check Treatment A2-25,Treatment A3-26	300
+Check Treatment A2-26,Treatment A1-27	800
+Check Treatment A2-26,Treatment A3-27	100
+Check Treatment A2-27,Treatment A1-28	1000
+Check Treatment A2-27,Treatment A3-28	100
+Check Treatment A2-28,Treatment A1-29	1800
+Check Treatment A2-28,Treatment A3-29	100
+Check Treatment A2-29,Treatment A1-30	2300
+Check Treatment A2-30,Treatment A1-31	2200
+Check Treatment A2-31,Treatment A1-32	1200
+Check Treatment A2-31,Treatment A3-32	100
+Check Treatment A2-32,Treatment A1-33	900
+Check Treatment A2-33,Treatment A1-34	1300
+Check Treatment A2-33,Treatment A3-34	100
+Check Treatment A2-34,Treatment A1-35	1000
+Check Treatment A2-35,Treatment A1-36	1200
+Check Treatment A2-36,Treatment A1-37	1900
+Check Treatment A2-37,Treatment A1-38	1500
+Check Treatment A2-37,Treatment A3-38	100
+Check Treatment A2-38,Treatment A1-39	1500
+Check Treatment A2-39,Treatment A1-40	2100
+Check Treatment A2-40,Treatment A1-41	1500
+Check Treatment A2-41,Treatment A1-42	1100
+Check Treatment A2-41,Treatment A3-42	100
+Check Treatment A2-42,Treatment A1-43	899
+Check Treatment A2-43,Treatment A1-44	900
+Check Treatment A2-44,Treatment A1-45	1800
+Check Treatment A2-44,Treatment A3-45	100
+Check Treatment A2-45,Treatment A1-46	2300
+Check Treatment A2-46,Treatment A1-47	2200
+Check Treatment A2-47,Treatment A1-48	1600
+Check Treatment A2-48,Treatment A1-49	1000
+Check Treatment A2-49,Treatment A1-50	1300
+Check Treatment A2-50,Treatment A1-51	900
+Check Treatment A2-51,Treatment A1-52	1500
+Check Treatment A2-52,Treatment A1-53	1600
+Check Treatment A2-53,Treatment A1-54	1200
+Check Treatment A2-54,Treatment A1-55	1500
+Check Treatment A2-55,Treatment A1-56	2200
+Check Treatment A2-56,Treatment A1-57	1900
+Check Treatment A2-57,Treatment A1-58	1400
+Check Treatment A2-58,Treatment A1-59	699
+Check Treatment A2-59,Treatment A1-60	800
+Check Treatment A2-6,Treatment A1-7	200
+Check Treatment A2-60,Treatment A1-61	1500
+Check Treatment A2-61,Treatment A1-62	1800
+Check Treatment A2-62,Treatment A1-63	1900
+Check Treatment A2-63,Treatment A1-64	1900
+Check Treatment A2-64,Treatment A1-65	1800
+Check Treatment A2-65,Treatment A1-66	1700
+Check Treatment A2-66,Treatment A1-67	800
+Check Treatment A2-67,Treatment A1-68	1200
+Check Treatment A2-68,Treatment A1-69	1200
+Check Treatment A2-69,Treatment A1-70	1000
+Check Treatment A2-70,Treatment A1-71	1000
+Check Treatment A2-71,Treatment A1-72	1600
+Check Treatment A2-72,Treatment A1-73	1200
+Check Treatment A2-73,Treatment A1-74	1200
+Check Treatment A2-74,Treatment A1-75	700
+Check Treatment A2-75,Treatment A1-76	600
+Check Treatment A2-76,Treatment A1-77	600
+Check Treatment A2-77,Treatment A1-78	1300
+Check Treatment A2-78,Treatment A1-79	1000
+Check Treatment A2-79,Treatment A1-80	1000
+Check Treatment A2-80,Treatment A1-81	1399
+Check Treatment A2-81,Treatment A1-82	1100
+Check Treatment A2-82,Treatment A1-83	300
+Check Treatment A2-83,Treatment A1-84	400
+Check Treatment A2-84,Treatment A1-85	500
+Check Treatment A2-85,Treatment A1-86	700
+Check Treatment A2-86,Treatment A1-87	900
+Check Treatment A2-87,Treatment A1-88	600
+Check Treatment A2-88,Treatment A1-89	900
+Check Treatment A2-89,Treatment A1-90	1000
+Check Treatment A2-9,Treatment A1-10	200
+Check Treatment A2-90,Treatment A1-91	500
+Check Treatment A2-91,Treatment A1-92	200
+Check Treatment A2-92,Treatment A1-93	400
+Check Treatment A2-93,Treatment A1-94	400
+Check Treatment A2-94,Treatment A1-95	300
+Check Treatment A2-95,Treatment A1-96	700
+Check Treatment A2-96,Treatment A1-97	499
+Check Treatment A2-97,Treatment A1-98	500
+Check Treatment A2-98,Treatment A1-99	200
+Check Treatment A2-99,Treatment A1-100	100
+Check Treatment A3,Inform Authority Fill Form	300
+Check Treatment A3,Inform Authority Send Form	100
+Check Treatment A3,Treatment A1	4300
+Check Treatment A3,Treatment A1-1	100
+Check Treatment A3,Treatment A1-10	100
+Check Treatment A3,Treatment A1-11	200
+Check Treatment A3,Treatment A1-12	500
+Check Treatment A3,Treatment A1-13	300
+Check Treatment A3,Treatment A1-14	200
+Check Treatment A3,Treatment A1-15	400
+Check Treatment A3,Treatment A1-16	100
+Check Treatment A3,Treatment A1-17	200
+Check Treatment A3,Treatment A1-18	500
+Check Treatment A3,Treatment A1-25	100
+Check Treatment A3,Treatment A1-28	100
+Check Treatment A3,Treatment A1-32	100
+Check Treatment A3,Treatment A1-6	400
+Check Treatment A3,Treatment A1-7	100
+Check Treatment A3,Treatment A1-8	500
+Check Treatment A3,Treatment A1-9	300
+Check Treatment A3,Treatment A2	3400
+Check Treatment A3-100,Treatment A1-101	100
+Check Treatment A3-100,Treatment A2-101	100
+Check Treatment A3-101,Treatment A1-102	200
+Check Treatment A3-102,Treatment A2-103	100
+Check Treatment A3-103,Treatment A1-104	100
+Check Treatment A3-103,Treatment A2-104	100
+Check Treatment A3-104,Treatment A1-105	100
+Check Treatment A3-108,Treatment A1-109	200
+Check Treatment A3-109,Treatment A1-110	100
+Check Treatment A3-111,Treatment A2-112	100
+Check Treatment A3-116,Treatment A1-117	100
+Check Treatment A3-118,Treatment A1-119	100
+Check Treatment A3-14,Treatment A2-15	200
+Check Treatment A3-16,Treatment A1-17	100
+Check Treatment A3-16,Treatment A2-17	200
+Check Treatment A3-17,Treatment A2-18	100
+Check Treatment A3-18,Treatment A2-19	900
+Check Treatment A3-19,Treatment A1-20	200
+Check Treatment A3-19,Treatment A2-20	500
+Check Treatment A3-20,Treatment A1-21	100
+Check Treatment A3-20,Treatment A2-21	600
+Check Treatment A3-21,Treatment A1-22	300
+Check Treatment A3-21,Treatment A2-22	1000
+Check Treatment A3-22,Treatment A1-23	200
+Check Treatment A3-22,Treatment A2-23	600
+Check Treatment A3-23,Treatment A1-24	100
+Check Treatment A3-23,Treatment A2-24	500
+Check Treatment A3-24,Treatment A1-25	300
+Check Treatment A3-24,Treatment A2-25	300
+Check Treatment A3-25,Treatment A1-26	200
+Check Treatment A3-25,Treatment A2-26	400
+Check Treatment A3-26,Treatment A1-27	200
+Check Treatment A3-26,Treatment A2-27	600
+Check Treatment A3-27,Treatment A1-28	300
+Check Treatment A3-27,Treatment A2-28	600
+Check Treatment A3-28,Treatment A1-29	100
+Check Treatment A3-28,Treatment A2-29	600
+Check Treatment A3-29,Treatment A1-30	200
+Check Treatment A3-29,Treatment A2-30	500
+Check Treatment A3-30,Treatment A1-31	100
+Check Treatment A3-30,Treatment A2-31	500
+Check Treatment A3-31,Treatment A2-32	400
+Check Treatment A3-32,Treatment A1-33	100
+Check Treatment A3-32,Treatment A2-33	500
+Check Treatment A3-33,Treatment A1-34	100
+Check Treatment A3-33,Treatment A2-34	300
+Check Treatment A3-34,Treatment A1-35	200
+Check Treatment A3-34,Treatment A2-35	900
+Check Treatment A3-35,Treatment A1-36	400
+Check Treatment A3-35,Treatment A2-36	1000
+Check Treatment A3-36,Treatment A1-37	100
+Check Treatment A3-36,Treatment A2-37	700
+Check Treatment A3-37,Treatment A1-38	200
+Check Treatment A3-37,Treatment A2-38	900
+Check Treatment A3-38,Treatment A1-39	200
+Check Treatment A3-38,Treatment A2-39	900
+Check Treatment A3-39,Treatment A1-40	100
+Check Treatment A3-39,Treatment A2-40	500
+Check Treatment A3-40,Treatment A2-41	200
+Check Treatment A3-41,Treatment A1-42	400
+Check Treatment A3-41,Treatment A2-42	500
+Check Treatment A3-42,Treatment A1-43	300
+Check Treatment A3-42,Treatment A2-43	700
+Check Treatment A3-43,Treatment A1-44	300
+Check Treatment A3-43,Treatment A2-44	500
+Check Treatment A3-44,Treatment A1-45	200
+Check Treatment A3-44,Treatment A2-45	400
+Check Treatment A3-45,Treatment A1-46	100
+Check Treatment A3-45,Treatment A2-46	500
+Check Treatment A3-46,Treatment A1-47	100
+Check Treatment A3-46,Treatment A2-47	500
+Check Treatment A3-47,Treatment A1-48	100
+Check Treatment A3-47,Treatment A2-48	500
+Check Treatment A3-48,Treatment A1-49	200
+Check Treatment A3-48,Treatment A2-49	400
+Check Treatment A3-49,Treatment A1-50	100
+Check Treatment A3-49,Treatment A2-50	300
+Check Treatment A3-50,Treatment A1-51	400
+Check Treatment A3-50,Treatment A2-51	700
+Check Treatment A3-51,Treatment A1-52	400
+Check Treatment A3-51,Treatment A2-52	700
+Check Treatment A3-52,Treatment A1-53	500
+Check Treatment A3-52,Treatment A2-53	400
+Check Treatment A3-53,Treatment A1-54	500
+Check Treatment A3-53,Treatment A2-54	900
+Check Treatment A3-54,Treatment A1-55	100
+Check Treatment A3-54,Treatment A2-55	800
+Check Treatment A3-55,Treatment A2-56	500
+Check Treatment A3-56,Treatment A1-57	300
+Check Treatment A3-56,Treatment A2-57	100
+Check Treatment A3-57,Treatment A1-58	500
+Check Treatment A3-57,Treatment A2-58	400
+Check Treatment A3-58,Treatment A1-59	600
+Check Treatment A3-58,Treatment A2-59	400
+Check Treatment A3-59,Treatment A1-60	300
+Check Treatment A3-59,Treatment A2-60	500
+Check Treatment A3-60,Treatment A1-61	400
+Check Treatment A3-60,Treatment A2-61	100
+Check Treatment A3-61,Treatment A1-62	500
+Check Treatment A3-61,Treatment A2-62	100
+Check Treatment A3-62,Treatment A2-63	500
+Check Treatment A3-63,Treatment A1-64	200
+Check Treatment A3-63,Treatment A2-64	400
+Check Treatment A3-64,Treatment A1-65	299
+Check Treatment A3-64,Treatment A2-65	300
+Check Treatment A3-65,Treatment A1-66	100
+Check Treatment A3-65,Treatment A2-66	300
+Check Treatment A3-66,Treatment A1-67	100
+Check Treatment A3-66,Treatment A2-67	200
+Check Treatment A3-67,Treatment A1-68	400
+Check Treatment A3-67,Treatment A2-68	300
+Check Treatment A3-68,Treatment A1-69	300
+Check Treatment A3-68,Treatment A2-69	200
+Check Treatment A3-69,Treatment A1-70	500
+Check Treatment A3-69,Treatment A2-70	400
+Check Treatment A3-70,Treatment A1-71	300
+Check Treatment A3-70,Treatment A2-71	300
+Check Treatment A3-71,Treatment A2-72	200
+Check Treatment A3-72,Treatment A1-73	100
+Check Treatment A3-72,Treatment A2-73	100
+Check Treatment A3-73,Treatment A1-74	600
+Check Treatment A3-73,Treatment A2-74	100
+Check Treatment A3-74,Treatment A1-75	400
+Check Treatment A3-74,Treatment A2-75	100
+Check Treatment A3-75,Treatment A1-76	300
+Check Treatment A3-75,Treatment A2-76	100
+Check Treatment A3-76,Treatment A1-77	300
+Check Treatment A3-76,Treatment A2-77	200
+Check Treatment A3-77,Treatment A1-78	400
+Check Treatment A3-77,Treatment A2-78	100
+Check Treatment A3-78,Treatment A2-79	300
+Check Treatment A3-80,Treatment A1-81	200
+Check Treatment A3-80,Treatment A2-81	100
+Check Treatment A3-81,Treatment A1-82	100
+Check Treatment A3-82,Treatment A1-83	300
+Check Treatment A3-82,Treatment A2-83	100
+Check Treatment A3-83,Treatment A1-84	200
+Check Treatment A3-83,Treatment A2-84	100
+Check Treatment A3-84,Treatment A1-85	300
+Check Treatment A3-84,Treatment A2-85	100
+Check Treatment A3-85,Treatment A1-86	399
+Check Treatment A3-85,Treatment A2-86	200
+Check Treatment A3-86,Treatment A1-87	100
+Check Treatment A3-86,Treatment A2-87	100
+Check Treatment A3-87,Treatment A2-88	200
+Check Treatment A3-88,Treatment A1-89	100
+Check Treatment A3-88,Treatment A2-89	200
+Check Treatment A3-89,Treatment A1-90	400
+Check Treatment A3-89,Treatment A2-90	100
+Check Treatment A3-90,Treatment A1-91	200
+Check Treatment A3-90,Treatment A2-91	200
+Check Treatment A3-91,Treatment A1-92	200
+Check Treatment A3-91,Treatment A2-92	100
+Check Treatment A3-92,Treatment A1-93	200
+Check Treatment A3-92,Treatment A2-93	100
+Check Treatment A3-93,Treatment A1-94	300
+Check Treatment A3-94,Treatment A2-95	200
+Check Treatment A3-96,Treatment A1-97	100
+Check Treatment A3-97,Treatment A1-98	99
+Check Treatment A3-99,Treatment A1-100	100
+Check Treatment B,Discharge	100
+Check Treatment B,Inform Authority Fill Form	3000
+Check Treatment B,Treatment B-1	100
+Check Treatment B,Treatment B-10	3698
+Check Treatment B,Treatment B-11	2200
+Check Treatment B,Treatment B-12	1699
+Check Treatment B,Treatment B-13	2299
+Check Treatment B,Treatment B-14	2399
+Check Treatment B,Treatment B-15	2600
+Check Treatment B,Treatment B-16	2600
+Check Treatment B,Treatment B-17	1700
+Check Treatment B,Treatment B-18	1300
+Check Treatment B,Treatment B-19	700
+Check Treatment B,Treatment B-2	100
+Check Treatment B,Treatment B-20	1600
+Check Treatment B,Treatment B-21	1000
+Check Treatment B,Treatment B-22	400
+Check Treatment B,Treatment B-23	400
+Check Treatment B,Treatment B-24	300
+Check Treatment B,Treatment B-25	500
+Check Treatment B,Treatment B-26	100
+Check Treatment B,Treatment B-28	100
+Check Treatment B,Treatment B-3	300
+Check Treatment B,Treatment B-30	100
+Check Treatment B,Treatment B-31	200
+Check Treatment B,Treatment B-33	100
+Check Treatment B,Treatment B-35	100
+Check Treatment B,Treatment B-4	100
+Check Treatment B,Treatment B-5	800
+Check Treatment B,Treatment B-6	800
+Check Treatment B,Treatment B-7	1400
+Check Treatment B,Treatment B-8	2799
+Check Treatment B,Treatment B-9	3396
+Check Treatment B-10,Discharge	600
+Check Treatment B-10,Treatment B-11	6199
+Check Treatment B-11,Discharge	400
+Check Treatment B-11,Treatment B-12	6799
+Check Treatment B-12,Discharge	2097
+Check Treatment B-12,Treatment B-13	5695
+Check Treatment B-13,Discharge	698
+Check Treatment B-13,Treatment B-14	7292
+Check Treatment B-14,Discharge	1200
+Check Treatment B-14,Treatment B-15	6496
+Check Treatment B-15,Discharge	2500
+Check Treatment B-15,Treatment B-16	5999
+Check Treatment B-16,Discharge	2700
+Check Treatment B-16,Treatment B-17	6500
+Check Treatment B-17,Discharge	3400
+Check Treatment B-17,Treatment B-18	5100
+Check Treatment B-18,Discharge	1900
+Check Treatment B-18,Treatment B-19	5500
+Check Treatment B-19,Discharge	1500
+Check Treatment B-19,Treatment B-20	4600
+Check Treatment B-2,Treatment B-3	700
+Check Treatment B-20,Discharge	1700
+Check Treatment B-20,Treatment B-21	4100
+Check Treatment B-21,Discharge	1600
+Check Treatment B-21,Treatment B-22	4000
+Check Treatment B-22,Discharge	2300
+Check Treatment B-22,Treatment B-23	2500
+Check Treatment B-23,Discharge	2000
+Check Treatment B-23,Treatment B-24	2200
+Check Treatment B-24,Discharge	1300
+Check Treatment B-24,Treatment B-25	1300
+Check Treatment B-25,Discharge	1100
+Check Treatment B-25,Treatment B-26	1500
+Check Treatment B-26,Discharge	400
+Check Treatment B-26,Treatment B-27	1300
+Check Treatment B-27,Discharge	1000
+Check Treatment B-27,Treatment B-28	400
+Check Treatment B-28,Discharge	600
+Check Treatment B-28,Treatment B-29	600
+Check Treatment B-29,Discharge	200
+Check Treatment B-29,Treatment B-30	300
+Check Treatment B-30,Discharge	200
+Check Treatment B-30,Treatment B-31	400
+Check Treatment B-31,Discharge	200
+Check Treatment B-31,Treatment B-32	200
+Check Treatment B-32,Discharge	400
+Check Treatment B-32,Treatment B-33	200
+Check Treatment B-33,Treatment B-34	200
+Check Treatment B-34,Treatment B-35	200
+Check Treatment B-35,Discharge	100
+Check Treatment B-35,Treatment B-36	100
+Check Treatment B-36,Treatment B-37	200
+Check Treatment B-37,Discharge	100
+Check Treatment B-38,Discharge	200
+Check Treatment B-38,Treatment B-39	100
+Check Treatment B-4,Treatment B-5	1200
+Check Treatment B-5,Treatment B-6	400
+Check Treatment B-6,Treatment B-7	3400
+Check Treatment B-7,Treatment B-8	1200
+Check Treatment B-8,Discharge	700
+Check Treatment B-8,Treatment B-9	3600
+Check Treatment B-9,Treatment B-10	3800
+Control Call Wait Facility,Control Call Wait Facility-1	3600
+Control Call Wait Facility,Control Call Wait Facility-2	200
+Control Call Wait Facility,Control Call Wait Facility-3	1200
+Control Call Wait Facility,Control Call Wait Facility-4	3700
+Control Call Wait Facility,Control Call Wait Facility-5	5998
+Control Call Wait Facility,Control Call Wait Facility-6	3400
+Control Call Wait Facility,Control Call Wait Facility-7	2000
+Control Call Wait Facility,Control Call Wait Facility-8	600
+Control Call Wait Facility,Inform Authority Fill Form	24300
+Control Call Wait Facility,Inform Authority Send Form	900
+Control Call Wait Facility,Referral	200
+Control Call Wait Facility-1,Control Call Wait Facility-2	8300
+Control Call Wait Facility-1,Inform Authority Fill Form	2100
+Control Call Wait Facility-1,Inform Authority Send Form	100
+Control Call Wait Facility-10,Control Call Wait Facility-11	26500
+Control Call Wait Facility-10,Referral	3200
+Control Call Wait Facility-11,Control Call Wait Facility-12	23700
+Control Call Wait Facility-11,Referral	2800
+Control Call Wait Facility-12,Control Call Wait Facility-13	20600
+Control Call Wait Facility-12,Referral	3100
+Control Call Wait Facility-13,Control Call Wait Facility-14	17800
+Control Call Wait Facility-13,Referral	2800
+Control Call Wait Facility-14,Control Call Wait Facility-15	13800
+Control Call Wait Facility-14,Referral	4000
+Control Call Wait Facility-15,Control Call Wait Facility-16	10700
+Control Call Wait Facility-15,Referral	3100
+Control Call Wait Facility-16,Control Call Wait Facility-17	8800
+Control Call Wait Facility-16,Referral	1900
+Control Call Wait Facility-17,Control Call Wait Facility-18	6800
+Control Call Wait Facility-17,Referral	2000
+Control Call Wait Facility-18,Control Call Wait Facility-19	5200
+Control Call Wait Facility-18,Referral	1600
+Control Call Wait Facility-19,Control Call Wait Facility-20	3800
+Control Call Wait Facility-19,Referral	1400
+Control Call Wait Facility-2,Control Call Wait Facility-3	9700
+Control Call Wait Facility-2,Inform Authority Fill Form	900
+Control Call Wait Facility-2,Inform Authority Send Form	100
+Control Call Wait Facility-2,Referral	100
+Control Call Wait Facility-20,Control Call Wait Facility-21	3100
+Control Call Wait Facility-20,Referral	700
+Control Call Wait Facility-21,Control Call Wait Facility-22	2400
+Control Call Wait Facility-21,Referral	700
+Control Call Wait Facility-22,Control Call Wait Facility-23	2000
+Control Call Wait Facility-22,Referral	400
+Control Call Wait Facility-23,Control Call Wait Facility-24	1500
+Control Call Wait Facility-23,Referral	500
+Control Call Wait Facility-24,Control Call Wait Facility-25	900
+Control Call Wait Facility-24,Referral	600
+Control Call Wait Facility-25,Control Call Wait Facility-26	800
+Control Call Wait Facility-25,Referral	100
+Control Call Wait Facility-26,Control Call Wait Facility-27	800
+Control Call Wait Facility-27,Control Call Wait Facility-28	600
+Control Call Wait Facility-27,Referral	200
+Control Call Wait Facility-28,Control Call Wait Facility-29	600
+Control Call Wait Facility-29,Control Call Wait Facility-30	500
+Control Call Wait Facility-29,Referral	100
+Control Call Wait Facility-3,Control Call Wait Facility-4	14900
+Control Call Wait Facility-3,Inform Authority Fill Form	100
+Control Call Wait Facility-30,Control Call Wait Facility-31	200
+Control Call Wait Facility-30,Referral	300
+Control Call Wait Facility-31,Control Call Wait Facility-32	100
+Control Call Wait Facility-31,Referral	100
+Control Call Wait Facility-32,Control Call Wait Facility-33	100
+Control Call Wait Facility-33,Referral	100
+Control Call Wait Facility-4,Control Call Wait Facility-5	21300
+Control Call Wait Facility-4,Inform Authority Fill Form	1300
+Control Call Wait Facility-5,Control Call Wait Facility-6	30099
+Control Call Wait Facility-5,Inform Authority Fill Form	2100
+Control Call Wait Facility-5,Inform Authority Send Form	100
+Control Call Wait Facility-5,Referral	1200
+Control Call Wait Facility-6,Control Call Wait Facility-7	34997
+Control Call Wait Facility-6,Inform Authority Fill Form	1700
+Control Call Wait Facility-6,Inform Authority Send Form	200
+Control Call Wait Facility-6,Referral	1600
+Control Call Wait Facility-7,Control Call Wait Facility-8	34800
+Control Call Wait Facility-7,Inform Authority Fill Form	1000
+Control Call Wait Facility-7,Inform Authority Send Form	200
+Control Call Wait Facility-7,Referral	4200
+Control Call Wait Facility-8,Control Call Wait Facility-9	33900
+Control Call Wait Facility-8,Inform Authority Send Form	100
+Control Call Wait Facility-8,Referral	4100
+Control Call Wait Facility-9,Control Call Wait Facility-10	29700
+Control Call Wait Facility-9,Referral	4600
+Control Call,Control Call-1	58691
+Control Call,Test III	5900
+Control Call-1,Control Call-2	57997
+Control Call-1,Test III	700
+Control Call-10,Test III	100
+Control Call-2,Control Call-3	51294
+Control Call-2,Test III	6700
+Control Call-3,Control Call-4	40100
+Control Call-3,Test III	11200
+Control Call-4,Control Call-5	19200
+Control Call-4,Test III	20900
+Control Call-5,Control Call-6	9995
+Control Call-5,Test III	9200
+Control Call-6,Control Call-7	4799
+Control Call-6,Test III	5200
+Control Call-7,Control Call-8	700
+Control Call-7,Test III	4100
+Control Call-8,Control Call-9	100
+Control Call-8,Test III	600
+Control Call-9,Control Call-10	100
+Decide Treatment,Inform Authority Fill Form	500
+Decide Treatment,Inform Authority Send Form	300
+Decide Treatment,Treatment A1	4100
+Decide Treatment,Treatment A2	3700
+Decide Treatment,Treatment A3	4100
+Decide Treatment,Treatment B	41000
+Discharge Test,Register	6
+Discharge,Register	107
+Inform Authority Fill Form,Check Treatment A3	100
+Inform Authority Fill Form,Control Call Wait Facility	900
+Inform Authority Fill Form,Control Call Wait Facility-1	100
+Inform Authority Fill Form,Control Call Wait Facility-2	100
+Inform Authority Fill Form,Control Call Wait Facility-5	100
+Inform Authority Fill Form,Control Call Wait Facility-6	200
+Inform Authority Fill Form,Control Call Wait Facility-7	200
+Inform Authority Fill Form,Control Call Wait Facility-8	100
+Inform Authority Fill Form,Decide Treatment	300
+Inform Authority Fill Form,Inform Authority Send Form	51057
+Inform Authority Fill Form,Referral	143
+Inform Authority Fill Form,Register Facility	300
+Inform Authority Fill Form,Treatment B	100
+Inform Authority Send Form,Check Treatment A1	200
+Inform Authority Send Form,Check Treatment A2	100
+Inform Authority Send Form,Check Treatment B	400
+Inform Authority Send Form,Control Call Wait Facility	10800
+Inform Authority Send Form,Control Call Wait Facility-1	6800
+Inform Authority Send Form,Control Call Wait Facility-2	2200
+Inform Authority Send Form,Control Call Wait Facility-3	4100
+Inform Authority Send Form,Control Call Wait Facility-4	4000
+Inform Authority Send Form,Control Call Wait Facility-5	6100
+Inform Authority Send Form,Control Call Wait Facility-6	4800
+Inform Authority Send Form,Control Call Wait Facility-7	3000
+Inform Authority Send Form,Control Call Wait Facility-8	2600
+Inform Authority Send Form,Control Call Wait Facility-9	400
+Inform Authority Send Form,Decide Treatment	400
+Inform Authority Send Form,Referral	300
+Inform Authority Send Form,Register Facility	1000
+Inform Authority Send Form,Treatment A1	300
+Inform Authority Send Form,Treatment A1-3	100
+Inform Authority Send Form,Treatment A1-4	100
+Inform Authority Send Form,Treatment A1-5	500
+Inform Authority Send Form,Treatment A1-7	300
+Inform Authority Send Form,Treatment A1-8	100
+Inform Authority Send Form,Treatment A2	100
+Inform Authority Send Form,Treatment A3	100
+Inform Authority Send Form,Treatment B	300
+Inform Authority Send Form,Treatment B-1	800
+Inform Authority Send Form,Treatment B-3	300
+Inform Authority Send Form,Treatment B-4	500
+Inform Authority Send Form,Treatment B-5	2500
+Inform Authority Send Form,Treatment B-6	200
+Inform Authority Send Form,Treatment B-7	200
+Inform Authority Send Form,Treatment B-8	100
+Inform about Isolation,Control Call	64600
+Inform about Isolation,Test III	10500
+Initial Exam Decision,Discharge Init Exam	74900
+Initial Exam Decision,Inform about Isolation	75100
+Initial Exam,Initial Exam Decision	150000
+Prescripe Special Medication,Control Call Wait Facility	4800
+Prescripe Special Medication,Inform Authority Fill Form	1600
+Prescripe Special Medication,Referral	1300
+Referral,Inform Authority Fill Form	1157
+Referral,Inform Authority Send Form	143
+Referral,Register Facility	52400
+Register Facility,Decide Treatment	53000
+Register Facility,Inform Authority Fill Form	400
+Register Facility,Inform Authority Send Form	300
+Register,Initial Exam	150000
+Test III Decision,Control Call Wait Facility	29600
+Test III Decision,Discharge Test	21400
+Test III Decision,Inform Authority Fill Form	10143
+Test III Decision,Prescripe Special Medication	7700
+Test III Decision,Referral	6257
+Test III,Test III Decision	75100
+Treatment A1,Check Treatment A1	12100
+Treatment A1,Inform Authority Fill Form	200
+Treatment A1-1,Check Treatment A1-2	200
+Treatment A1-10,Check Treatment A1-11	1900
+Treatment A1-100,Check Treatment A1-101	700
+Treatment A1-101,Check Treatment A1-102	500
+Treatment A1-102,Check Treatment A1-103	500
+Treatment A1-103,Check Treatment A1-104	100
+Treatment A1-104,Check Treatment A1-105	200
+Treatment A1-105,Check Treatment A1-106	500
+Treatment A1-106,Check Treatment A1-107	600
+Treatment A1-107,Check Treatment A1-108	200
+Treatment A1-108,Check Treatment A1-109	300
+Treatment A1-109,Check Treatment A1-110	400
+Treatment A1-11,Check Treatment A1-12	2700
+Treatment A1-110,Check Treatment A1-111	100
+Treatment A1-111,Check Treatment A1-112	200
+Treatment A1-113,Check Treatment A1-114	300
+Treatment A1-114,Check Treatment A1-115	200
+Treatment A1-115,Check Treatment A1-116	200
+Treatment A1-116,Check Treatment A1-117	100
+Treatment A1-117,Check Treatment A1-118	100
+Treatment A1-119,Check Treatment A1-120	100
+Treatment A1-12,Check Treatment A1-13	2200
+Treatment A1-121,Check Treatment A1-122	100
+Treatment A1-13,Check Treatment A1-14	3000
+Treatment A1-14,Check Treatment A1-15	3400
+Treatment A1-15,Check Treatment A1-16	4100
+Treatment A1-16,Check Treatment A1-17	4000
+Treatment A1-17,Check Treatment A1-18	3400
+Treatment A1-18,Check Treatment A1-19	3400
+Treatment A1-19,Check Treatment A1-20	3300
+Treatment A1-20,Check Treatment A1-21	3000
+Treatment A1-21,Check Treatment A1-22	3699
+Treatment A1-22,Check Treatment A1-23	3600
+Treatment A1-23,Check Treatment A1-24	4100
+Treatment A1-24,Check Treatment A1-25	4500
+Treatment A1-25,Check Treatment A1-26	4300
+Treatment A1-26,Check Treatment A1-27	4100
+Treatment A1-27,Check Treatment A1-28	3400
+Treatment A1-28,Check Treatment A1-29	3200
+Treatment A1-29,Check Treatment A1-30	3200
+Treatment A1-3,Check Treatment A1-4	200
+Treatment A1-30,Check Treatment A1-31	4500
+Treatment A1-31,Check Treatment A1-32	4500
+Treatment A1-32,Check Treatment A1-33	4500
+Treatment A1-33,Check Treatment A1-34	3900
+Treatment A1-34,Check Treatment A1-35	3700
+Treatment A1-35,Check Treatment A1-36	3300
+Treatment A1-36,Check Treatment A1-37	3600
+Treatment A1-37,Check Treatment A1-38	3400
+Treatment A1-38,Check Treatment A1-39	3600
+Treatment A1-39,Check Treatment A1-40	4300
+Treatment A1-4,Check Treatment A1-5	200
+Treatment A1-40,Check Treatment A1-41	4200
+Treatment A1-41,Check Treatment A1-42	4100
+Treatment A1-42,Check Treatment A1-43	4599
+Treatment A1-43,Check Treatment A1-44	3500
+Treatment A1-44,Check Treatment A1-45	3400
+Treatment A1-45,Check Treatment A1-46	3200
+Treatment A1-46,Check Treatment A1-47	4100
+Treatment A1-47,Check Treatment A1-48	4400
+Treatment A1-48,Check Treatment A1-49	4600
+Treatment A1-49,Check Treatment A1-50	4000
+Treatment A1-5,Check Treatment A1-6	1200
+Treatment A1-50,Check Treatment A1-51	3700
+Treatment A1-51,Check Treatment A1-52	3499
+Treatment A1-52,Check Treatment A1-53	3700
+Treatment A1-53,Check Treatment A1-54	3598
+Treatment A1-54,Check Treatment A1-55	3600
+Treatment A1-55,Check Treatment A1-56	3700
+Treatment A1-56,Check Treatment A1-57	4000
+Treatment A1-57,Check Treatment A1-58	4300
+Treatment A1-58,Check Treatment A1-59	4700
+Treatment A1-59,Check Treatment A1-60	4000
+Treatment A1-6,Check Treatment A1-7	1000
+Treatment A1-60,Check Treatment A1-61	3900
+Treatment A1-61,Check Treatment A1-62	3500
+Treatment A1-62,Check Treatment A1-63	3800
+Treatment A1-63,Check Treatment A1-64	3400
+Treatment A1-64,Check Treatment A1-65	4200
+Treatment A1-65,Check Treatment A1-66	4100
+Treatment A1-66,Check Treatment A1-67	3800
+Treatment A1-67,Check Treatment A1-68	3100
+Treatment A1-68,Check Treatment A1-69	3400
+Treatment A1-69,Check Treatment A1-70	2800
+Treatment A1-7,Check Treatment A1-8	2000
+Treatment A1-70,Check Treatment A1-71	3200
+Treatment A1-71,Check Treatment A1-72	2900
+Treatment A1-72,Check Treatment A1-73	2900
+Treatment A1-73,Check Treatment A1-74	2600
+Treatment A1-74,Check Treatment A1-75	3600
+Treatment A1-75,Check Treatment A1-76	2600
+Treatment A1-76,Check Treatment A1-77	2400
+Treatment A1-77,Check Treatment A1-78	2200
+Treatment A1-78,Check Treatment A1-79	2600
+Treatment A1-79,Check Treatment A1-80	1600
+Treatment A1-8,Check Treatment A1-9	1900
+Treatment A1-80,Check Treatment A1-81	2300
+Treatment A1-81,Check Treatment A1-82	2500
+Treatment A1-82,Check Treatment A1-83	2300
+Treatment A1-83,Check Treatment A1-84	2200
+Treatment A1-84,Check Treatment A1-85	1600
+Treatment A1-85,Check Treatment A1-86	1700
+Treatment A1-86,Check Treatment A1-87	2000
+Treatment A1-87,Check Treatment A1-88	1500
+Treatment A1-88,Check Treatment A1-89	1200
+Treatment A1-89,Check Treatment A1-90	1500
+Treatment A1-9,Check Treatment A1-10	1800
+Treatment A1-90,Check Treatment A1-91	1800
+Treatment A1-91,Check Treatment A1-92	1200
+Treatment A1-92,Check Treatment A1-93	1300
+Treatment A1-93,Check Treatment A1-94	1100
+Treatment A1-94,Check Treatment A1-95	1100
+Treatment A1-95,Check Treatment A1-96	800
+Treatment A1-96,Check Treatment A1-97	800
+Treatment A1-97,Check Treatment A1-98	1000
+Treatment A1-98,Check Treatment A1-99	900
+Treatment A1-99,Check Treatment A1-100	500
+Treatment A2,Check Treatment A2	12200
+Treatment A2,Inform Authority Fill Form	100
+Treatment A2-10,Check Treatment A2-11	800
+Treatment A2-100,Check Treatment A2-101	100
+Treatment A2-101,Check Treatment A2-102	100
+Treatment A2-102,Check Treatment A2-103	100
+Treatment A2-103,Check Treatment A2-104	400
+Treatment A2-104,Check Treatment A2-105	500
+Treatment A2-106,Check Treatment A2-107	100
+Treatment A2-107,Check Treatment A2-108	100
+Treatment A2-109,Check Treatment A2-110	100
+Treatment A2-11,Check Treatment A2-12	700
+Treatment A2-111,Check Treatment A2-112	200
+Treatment A2-112,Check Treatment A2-113	200
+Treatment A2-113,Check Treatment A2-114	100
+Treatment A2-119,Check Treatment A2-120	100
+Treatment A2-12,Check Treatment A2-13	1100
+Treatment A2-121,Check Treatment A2-122	100
+Treatment A2-13,Check Treatment A2-14	1000
+Treatment A2-14,Check Treatment A2-15	700
+Treatment A2-15,Check Treatment A2-16	600
+Treatment A2-16,Check Treatment A2-17	600
+Treatment A2-17,Check Treatment A2-18	1100
+Treatment A2-18,Check Treatment A2-19	1300
+Treatment A2-19,Check Treatment A2-20	1800
+Treatment A2-20,Check Treatment A2-21	1200
+Treatment A2-21,Check Treatment A2-22	1300
+Treatment A2-22,Check Treatment A2-23	1700
+Treatment A2-23,Check Treatment A2-24	1200
+Treatment A2-24,Check Treatment A2-25	1000
+Treatment A2-25,Check Treatment A2-26	900
+Treatment A2-26,Check Treatment A2-27	1100
+Treatment A2-27,Check Treatment A2-28	1900
+Treatment A2-28,Check Treatment A2-29	2300
+Treatment A2-29,Check Treatment A2-30	2200
+Treatment A2-30,Check Treatment A2-31	1300
+Treatment A2-31,Check Treatment A2-32	900
+Treatment A2-32,Check Treatment A2-33	1400
+Treatment A2-33,Check Treatment A2-34	1000
+Treatment A2-34,Check Treatment A2-35	1200
+Treatment A2-35,Check Treatment A2-36	1900
+Treatment A2-36,Check Treatment A2-37	1600
+Treatment A2-37,Check Treatment A2-38	1500
+Treatment A2-38,Check Treatment A2-39	2100
+Treatment A2-39,Check Treatment A2-40	1500
+Treatment A2-40,Check Treatment A2-41	1200
+Treatment A2-41,Check Treatment A2-42	900
+Treatment A2-42,Check Treatment A2-43	900
+Treatment A2-43,Check Treatment A2-44	1900
+Treatment A2-44,Check Treatment A2-45	2300
+Treatment A2-45,Check Treatment A2-46	2200
+Treatment A2-46,Check Treatment A2-47	1600
+Treatment A2-47,Check Treatment A2-48	1000
+Treatment A2-48,Check Treatment A2-49	1300
+Treatment A2-49,Check Treatment A2-50	900
+Treatment A2-5,Check Treatment A2-6	200
+Treatment A2-50,Check Treatment A2-51	1500
+Treatment A2-51,Check Treatment A2-52	1600
+Treatment A2-52,Check Treatment A2-53	1200
+Treatment A2-53,Check Treatment A2-54	1500
+Treatment A2-54,Check Treatment A2-55	2200
+Treatment A2-55,Check Treatment A2-56	1900
+Treatment A2-56,Check Treatment A2-57	1400
+Treatment A2-57,Check Treatment A2-58	700
+Treatment A2-58,Check Treatment A2-59	800
+Treatment A2-59,Check Treatment A2-60	1500
+Treatment A2-60,Check Treatment A2-61	1800
+Treatment A2-61,Check Treatment A2-62	1900
+Treatment A2-62,Check Treatment A2-63	1900
+Treatment A2-63,Check Treatment A2-64	1800
+Treatment A2-64,Check Treatment A2-65	1700
+Treatment A2-65,Check Treatment A2-66	800
+Treatment A2-66,Check Treatment A2-67	1200
+Treatment A2-67,Check Treatment A2-68	1200
+Treatment A2-68,Check Treatment A2-69	1000
+Treatment A2-69,Check Treatment A2-70	1000
+Treatment A2-70,Check Treatment A2-71	1600
+Treatment A2-71,Check Treatment A2-72	1200
+Treatment A2-72,Check Treatment A2-73	1200
+Treatment A2-73,Check Treatment A2-74	700
+Treatment A2-74,Check Treatment A2-75	600
+Treatment A2-75,Check Treatment A2-76	600
+Treatment A2-76,Check Treatment A2-77	1300
+Treatment A2-77,Check Treatment A2-78	1000
+Treatment A2-78,Check Treatment A2-79	1000
+Treatment A2-79,Check Treatment A2-80	1400
+Treatment A2-8,Check Treatment A2-9	200
+Treatment A2-80,Check Treatment A2-81	1100
+Treatment A2-81,Check Treatment A2-82	300
+Treatment A2-82,Check Treatment A2-83	400
+Treatment A2-83,Check Treatment A2-84	500
+Treatment A2-84,Check Treatment A2-85	700
+Treatment A2-85,Check Treatment A2-86	900
+Treatment A2-86,Check Treatment A2-87	600
+Treatment A2-87,Check Treatment A2-88	900
+Treatment A2-88,Check Treatment A2-89	1000
+Treatment A2-89,Check Treatment A2-90	500
+Treatment A2-9,Check Treatment A2-10	1100
+Treatment A2-90,Check Treatment A2-91	200
+Treatment A2-91,Check Treatment A2-92	400
+Treatment A2-92,Check Treatment A2-93	400
+Treatment A2-93,Check Treatment A2-94	300
+Treatment A2-94,Check Treatment A2-95	700
+Treatment A2-95,Check Treatment A2-96	500
+Treatment A2-96,Check Treatment A2-97	500
+Treatment A2-97,Check Treatment A2-98	200
+Treatment A2-98,Check Treatment A2-99	100
+Treatment A2-99,Check Treatment A2-100	100
+Treatment A3,Check Treatment A3	12200
+Treatment A3,Inform Authority Fill Form	100
+Treatment A3-100,Check Treatment A3-101	200
+Treatment A3-101,Check Treatment A3-102	100
+Treatment A3-102,Check Treatment A3-103	200
+Treatment A3-103,Check Treatment A3-104	100
+Treatment A3-107,Check Treatment A3-108	200
+Treatment A3-108,Check Treatment A3-109	100
+Treatment A3-110,Check Treatment A3-111	100
+Treatment A3-115,Check Treatment A3-116	100
+Treatment A3-117,Check Treatment A3-118	100
+Treatment A3-13,Check Treatment A3-14	200
+Treatment A3-15,Check Treatment A3-16	300
+Treatment A3-16,Check Treatment A3-17	100
+Treatment A3-17,Check Treatment A3-18	900
+Treatment A3-18,Check Treatment A3-19	700
+Treatment A3-19,Check Treatment A3-20	700
+Treatment A3-20,Check Treatment A3-21	1300
+Treatment A3-21,Check Treatment A3-22	800
+Treatment A3-22,Check Treatment A3-23	600
+Treatment A3-23,Check Treatment A3-24	600
+Treatment A3-24,Check Treatment A3-25	600
+Treatment A3-25,Check Treatment A3-26	800
+Treatment A3-26,Check Treatment A3-27	900
+Treatment A3-27,Check Treatment A3-28	700
+Treatment A3-28,Check Treatment A3-29	700
+Treatment A3-29,Check Treatment A3-30	600
+Treatment A3-30,Check Treatment A3-31	400
+Treatment A3-31,Check Treatment A3-32	600
+Treatment A3-32,Check Treatment A3-33	400
+Treatment A3-33,Check Treatment A3-34	1100
+Treatment A3-34,Check Treatment A3-35	1400
+Treatment A3-35,Check Treatment A3-36	800
+Treatment A3-36,Check Treatment A3-37	1100
+Treatment A3-37,Check Treatment A3-38	1100
+Treatment A3-38,Check Treatment A3-39	600
+Treatment A3-39,Check Treatment A3-40	200
+Treatment A3-40,Check Treatment A3-41	900
+Treatment A3-41,Check Treatment A3-42	1000
+Treatment A3-42,Check Treatment A3-43	800
+Treatment A3-43,Check Treatment A3-44	600
+Treatment A3-44,Check Treatment A3-45	600
+Treatment A3-45,Check Treatment A3-46	600
+Treatment A3-46,Check Treatment A3-47	600
+Treatment A3-47,Check Treatment A3-48	600
+Treatment A3-48,Check Treatment A3-49	400
+Treatment A3-49,Check Treatment A3-50	1100
+Treatment A3-50,Check Treatment A3-51	1100
+Treatment A3-51,Check Treatment A3-52	900
+Treatment A3-52,Check Treatment A3-53	1400
+Treatment A3-53,Check Treatment A3-54	900
+Treatment A3-54,Check Treatment A3-55	500
+Treatment A3-55,Check Treatment A3-56	400
+Treatment A3-56,Check Treatment A3-57	900
+Treatment A3-57,Check Treatment A3-58	1000
+Treatment A3-58,Check Treatment A3-59	800
+Treatment A3-59,Check Treatment A3-60	500
+Treatment A3-60,Check Treatment A3-61	600
+Treatment A3-61,Check Treatment A3-62	500
+Treatment A3-62,Check Treatment A3-63	600
+Treatment A3-63,Check Treatment A3-64	600
+Treatment A3-64,Check Treatment A3-65	400
+Treatment A3-65,Check Treatment A3-66	300
+Treatment A3-66,Check Treatment A3-67	700
+Treatment A3-67,Check Treatment A3-68	500
+Treatment A3-68,Check Treatment A3-69	900
+Treatment A3-69,Check Treatment A3-70	600
+Treatment A3-70,Check Treatment A3-71	200
+Treatment A3-71,Check Treatment A3-72	200
+Treatment A3-72,Check Treatment A3-73	700
+Treatment A3-73,Check Treatment A3-74	500
+Treatment A3-74,Check Treatment A3-75	400
+Treatment A3-75,Check Treatment A3-76	500
+Treatment A3-76,Check Treatment A3-77	500
+Treatment A3-77,Check Treatment A3-78	300
+Treatment A3-79,Check Treatment A3-80	300
+Treatment A3-80,Check Treatment A3-81	100
+Treatment A3-81,Check Treatment A3-82	400
+Treatment A3-82,Check Treatment A3-83	300
+Treatment A3-83,Check Treatment A3-84	400
+Treatment A3-84,Check Treatment A3-85	600
+Treatment A3-85,Check Treatment A3-86	200
+Treatment A3-86,Check Treatment A3-87	200
+Treatment A3-87,Check Treatment A3-88	300
+Treatment A3-88,Check Treatment A3-89	500
+Treatment A3-89,Check Treatment A3-90	400
+Treatment A3-90,Check Treatment A3-91	300
+Treatment A3-91,Check Treatment A3-92	300
+Treatment A3-92,Check Treatment A3-93	300
+Treatment A3-93,Check Treatment A3-94	200
+Treatment A3-95,Check Treatment A3-96	100
+Treatment A3-96,Check Treatment A3-97	100
+Treatment A3-98,Check Treatment A3-99	100
+Treatment A3-99,Check Treatment A3-100	200
+Treatment B,Check Treatment B	31000
+Treatment B,Inform Authority Fill Form	1900
+Treatment B,Inform Authority Send Form	100
+Treatment B,Treatment B-10	600
+Treatment B,Treatment B-11	800
+Treatment B,Treatment B-12	700
+Treatment B,Treatment B-13	499
+Treatment B,Treatment B-14	400
+Treatment B,Treatment B-15	900
+Treatment B,Treatment B-16	500
+Treatment B,Treatment B-17	100
+Treatment B,Treatment B-18	400
+Treatment B,Treatment B-19	800
+Treatment B,Treatment B-20	300
+Treatment B,Treatment B-21	100
+Treatment B,Treatment B-22	100
+Treatment B,Treatment B-23	100
+Treatment B,Treatment B-24	100
+Treatment B,Treatment B-25	100
+Treatment B,Treatment B-26	100
+Treatment B,Treatment B-3	100
+Treatment B,Treatment B-31	100
+Treatment B,Treatment B-34	100
+Treatment B,Treatment B-6	299
+Treatment B,Treatment B-7	200
+Treatment B,Treatment B-8	600
+Treatment B,Treatment B-9	400
+Treatment B-1,Check Treatment B	100
+Treatment B-1,Check Treatment B-2	700
+Treatment B-1,Treatment B-2	100
+Treatment B-10,Check Treatment B	300
+Treatment B-10,Check Treatment B-11	7200
+Treatment B-10,Discharge	700
+Treatment B-10,Treatment B-11	2199
+Treatment B-11,Check Treatment B	200
+Treatment B-11,Check Treatment B-12	7800
+Treatment B-11,Discharge	199
+Treatment B-11,Treatment B-12	3197
+Treatment B-12,Check Treatment B	500
+Treatment B-12,Check Treatment B-13	8000
+Treatment B-12,Discharge	399
+Treatment B-12,Treatment B-13	3500
+Treatment B-13,Check Treatment B	800
+Treatment B-13,Check Treatment B-14	7700
+Treatment B-13,Discharge	599
+Treatment B-13,Treatment B-14	2900
+Treatment B-14,Check Treatment B	300
+Treatment B-14,Check Treatment B-15	8500
+Treatment B-14,Discharge	800
+Treatment B-14,Treatment B-15	3400
+Treatment B-15,Check Treatment B	600
+Treatment B-15,Check Treatment B-16	9200
+Treatment B-15,Discharge	800
+Treatment B-15,Treatment B-16	2800
+Treatment B-16,Check Treatment B	300
+Treatment B-16,Check Treatment B-17	8500
+Treatment B-16,Discharge	500
+Treatment B-16,Treatment B-17	2600
+Treatment B-17,Check Treatment B	500
+Treatment B-17,Check Treatment B-18	7400
+Treatment B-17,Discharge	300
+Treatment B-17,Treatment B-18	2700
+Treatment B-18,Check Treatment B	300
+Treatment B-18,Check Treatment B-19	6100
+Treatment B-18,Discharge	1100
+Treatment B-18,Treatment B-19	2000
+Treatment B-19,Check Treatment B	600
+Treatment B-19,Check Treatment B-20	5800
+Treatment B-19,Discharge	400
+Treatment B-19,Treatment B-20	2200
+Treatment B-2,Treatment B-3	200
+Treatment B-20,Check Treatment B	400
+Treatment B-20,Check Treatment B-21	5600
+Treatment B-20,Discharge	1000
+Treatment B-20,Treatment B-21	1700
+Treatment B-21,Check Treatment B	200
+Treatment B-21,Check Treatment B-22	4800
+Treatment B-21,Discharge	500
+Treatment B-21,Treatment B-22	1400
+Treatment B-22,Check Treatment B	200
+Treatment B-22,Check Treatment B-23	4200
+Treatment B-22,Discharge	200
+Treatment B-22,Treatment B-23	1300
+Treatment B-23,Check Treatment B	100
+Treatment B-23,Check Treatment B-24	2600
+Treatment B-23,Discharge	400
+Treatment B-23,Treatment B-24	1200
+Treatment B-24,Check Treatment B	100
+Treatment B-24,Check Treatment B-25	2600
+Treatment B-24,Discharge	500
+Treatment B-24,Treatment B-25	600
+Treatment B-25,Check Treatment B	100
+Treatment B-25,Check Treatment B-26	1700
+Treatment B-25,Discharge	400
+Treatment B-25,Treatment B-26	300
+Treatment B-26,Check Treatment B-27	1400
+Treatment B-26,Treatment B-27	600
+Treatment B-27,Check Treatment B-28	1200
+Treatment B-27,Discharge	300
+Treatment B-27,Treatment B-28	400
+Treatment B-28,Check Treatment B-29	500
+Treatment B-28,Discharge	100
+Treatment B-28,Treatment B-29	300
+Treatment B-29,Check Treatment B-30	600
+Treatment B-29,Discharge	100
+Treatment B-29,Treatment B-30	200
+Treatment B-3,Check Treatment B-4	1200
+Treatment B-3,Treatment B-4	400
+Treatment B-30,Check Treatment B-31	400
+Treatment B-30,Discharge	100
+Treatment B-30,Treatment B-31	100
+Treatment B-31,Check Treatment B-32	600
+Treatment B-31,Discharge	100
+Treatment B-31,Treatment B-32	100
+Treatment B-32,Check Treatment B	100
+Treatment B-32,Check Treatment B-33	200
+Treatment B-33,Check Treatment B-34	200
+Treatment B-33,Treatment B-34	100
+Treatment B-34,Check Treatment B	100
+Treatment B-34,Check Treatment B-35	200
+Treatment B-34,Treatment B-35	100
+Treatment B-35,Check Treatment B-36	200
+Treatment B-35,Treatment B-36	200
+Treatment B-36,Check Treatment B-37	100
+Treatment B-36,Discharge	100
+Treatment B-36,Treatment B-37	100
+Treatment B-37,Check Treatment B-38	300
+Treatment B-39,Treatment B-40	100
+Treatment B-4,Check Treatment B	200
+Treatment B-4,Check Treatment B-5	400
+Treatment B-4,Treatment B-5	400
+Treatment B-40,Discharge	99
+Treatment B-5,Check Treatment B	200
+Treatment B-5,Check Treatment B-6	3400
+Treatment B-5,Treatment B-6	1300
+Treatment B-6,Check Treatment B	400
+Treatment B-6,Check Treatment B-7	1200
+Treatment B-6,Discharge	200
+Treatment B-6,Treatment B-7	1200
+Treatment B-7,Check Treatment B	100
+Treatment B-7,Check Treatment B-8	4300
+Treatment B-7,Treatment B-8	2000
+Treatment B-8,Check Treatment B	600
+Treatment B-8,Check Treatment B-9	3800
+Treatment B-8,Discharge	100
+Treatment B-8,Treatment B-9	2197
+Treatment B-9,Check Treatment B	300
+Treatment B-9,Check Treatment B-10	6800
+Treatment B-9,Discharge	200
+Treatment B-9,Treatment B-10	2298

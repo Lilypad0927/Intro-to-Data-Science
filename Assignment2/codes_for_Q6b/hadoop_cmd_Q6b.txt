@@ -1,0 +1,20 @@
+# Local command:
+# copy the python file to the docker container
+docker cp ..\mapper.py 2ae9:/usr/local/hadoop/
+docker cp ..\reducer.py 2ae9:/usr/local/hadoop/
+docker cp ..\reducer2.py 2ae9:/usr/local/hadoop/
+docker cp ..\mapper2.py 2ae9:/usr/local/hadoop/
+
+# Hadoop command:
+# run the Mapreducer code
+# combine the activities into traces
+hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.4.jar -file /usr/local/hadoop/mapper.py -mapper "python mapper.py" -file /usr/local/hadoop/reducer.py -reducer "python reducer.py" -input /input/CYL-final-log.tsv -output /output/result
+# get the directly-follows relations
+hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.4.jar -file /usr/local/hadoop/mapper2.py -mapper "python mapper2.py" -file /usr/local/hadoop/reducer2.py -reducer "python reducer2.py" -input /output/result/part-00000 -output /output/result-final
+# copy the result to the docker container
+hadoop fs -copyToLocal /output/result-final/part-00000 /usr/local/hadoop/dfr.txt
+
+
+# Local command:
+# copy them back to the local directory
+docker cp 2ae9:/usr/local/hadoop/dfr.txt .
