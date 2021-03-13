@@ -1,0 +1,10 @@
+84.33
+Q1: f) only independent distribution analysis; 
+Q2: Q2 a) Style: You should print out some part of the data so that it's clear that your implementation is correct. 
+Q3: b) While using LabelEncoder is fine for binary features such as ShoreR, using it for unordered nominal categorical ones such as TypeR introduces an ordering which is inherently not present. 
+c) While your approach seems adequate, further elaboration w.r.t what you see in the plots for each selected variable would help clarify in more detail your selections. 
+f) Further elaboration on why you consider the values of the confusion matrix to be fine for the green frogs model and not for the brown frogs would be appreciated. This way you could have analyzed the model performances in a more concrete way. 
+Q4: a) same remarks as in 3b). 
+Q5: 
+Q6: a) You should have fitted the models for each fold, not only call predict 
+Q7:
